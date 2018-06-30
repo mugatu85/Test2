@@ -6,8 +6,7 @@ public class Added {
         int a = 5;
         int b = 10;
         int c = 15;
-        int d = 2;
-        int iloczyn = a * b*c *d;
+               int iloczyn = a * b*c ;
         System.out.println("wynik mnozenia to: " + iloczyn);
 
     }
